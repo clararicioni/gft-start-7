@@ -44,3 +44,7 @@ Permite visualizar todos os serviços por categorias, status de serviço e prove
 
 VERSÃO PRÉVIA: quando o serviço está sendo avaliado ou testado.
 
+## 🤝 SLA - Service Level Agreement
+O SLA (Acordo de Nível de Serviço) é um contrato entre a Microsoft e seus clientes que define os compromissos da empresa em relação ao tempo de atividade e conectividade dos serviços do Azure. Quanto maior a porcentagem do SLA, menor o tempo de inatividade.
+Ao criar uma conta de armazenamento, a escolha da Redundância (local, geográfica, zona ou zona geográfica) pode influenciar no SLA. Em caso de replicação do dado entre data centers ou regiões, o SLA pode ser menor. O tempo de disponibilidade diminui pela replicação do dado em mais de um local.
+
